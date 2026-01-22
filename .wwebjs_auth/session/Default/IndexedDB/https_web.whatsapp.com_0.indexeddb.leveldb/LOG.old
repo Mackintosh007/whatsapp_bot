@@ -1,16 +1,4 @@
-2026/01/21-16:20:36.092 17b8 Reusing MANIFEST C:\Users\uers\Documents\model_building_excercises\whatsapp-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2026/01/21-16:20:36.093 17b8 Recovering log #239
-2026/01/21-16:20:36.097 17b8 Reusing old log C:\Users\uers\Documents\model_building_excercises\whatsapp-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000239.log 
-2026/01/21-16:20:38.472 3b2c Compacting 1@1 + 4@2 files
-2026/01/21-16:20:38.594 3b2c Generated table #242@1: 36826 keys, 2196261 bytes
-2026/01/21-16:20:38.765 3b2c Generated table #243@1: 59670 keys, 2227612 bytes
-2026/01/21-16:20:38.887 3b2c Generated table #244@1: 15392 keys, 2181659 bytes
-2026/01/21-16:20:39.013 3b2c Generated table #245@1: 31370 keys, 1217534 bytes
-2026/01/21-16:20:39.014 3b2c Compacted 1@1 + 4@2 files => 7823066 bytes
-2026/01/21-16:20:39.031 3b2c compacted to: files[ 0 0 4 0 0 0 0 ]
-2026/01/21-16:20:39.032 3b2c Delete type=2 #235
-2026/01/21-16:20:39.032 3b2c Delete type=2 #236
-2026/01/21-16:20:39.032 3b2c Delete type=2 #237
-2026/01/21-16:20:39.033 3b2c Delete type=2 #238
-2026/01/21-16:20:39.033 3b2c Delete type=2 #240
-2026/01/21-16:20:40.146 17b8 Manual compaction at level-0 from '\x00%\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00&\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/01/21-17:07:51.190 25c8 Reusing MANIFEST C:\Users\uers\Documents\model_building_excercises\whatsapp-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/21-17:07:51.195 25c8 Recovering log #267
+2026/01/21-17:07:51.230 25c8 Reusing old log C:\Users\uers\Documents\model_building_excercises\whatsapp-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000267.log 
+2026/01/21-17:07:53.005 25c8 Manual compaction at level-0 from '\x00)\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00*\x00\x00\x00' @ 0 : 0; will stop at (end)

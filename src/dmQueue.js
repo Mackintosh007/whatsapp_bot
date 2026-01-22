@@ -10,7 +10,7 @@ async function queueDM(client, user) {
   setTimeout(async () => {
     await client.sendMessage(
       user,
-      "Hi 👋 I saw the property you listed on Omoku Market Square group. Incase you you need more visibility there's a new website built specifically for business people in Omoku and ONELGA, you can check it out and maybe signup if you find the site helpful."
+      "Hi 👋 I saw your listing on Omoku Market Square group. Incase you you need more visibility there's a new website built specifically for business people in Omoku and ONELGA, you can check it out and maybe signup if you find the site helpful."
     );
     logMessage(user);
   }, delay);
